@@ -12,4 +12,4 @@ Fork from cd-fx with the purpose of not using injection.
 
 > cd target/
 
-> java -jar cdi-fx-1.0.jar
+> java -jar non-cdi-fx-1.0.jar
