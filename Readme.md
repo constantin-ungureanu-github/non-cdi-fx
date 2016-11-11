@@ -1,4 +1,4 @@
-Fork from cd-fx with the purpose of not using injection.
+Fork from cdi-fx with the purpose of not using injection.
 
 # Usage:
 
